@@ -8,7 +8,7 @@
  * Date: 15/6/4
  * Time: 上午11:29
  */
-namespace Loopeer\Sms\LuosimaoSms;
+namespace Loopeer\LuosimaoSms\Sms;
 
 class LuosimaoSms {
 
