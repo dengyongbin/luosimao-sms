@@ -1,0 +1,20 @@
+{
+    "name": "loopeer/luosimao-sms",
+    "description": "luosimao sms api package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dengyongbin",
+            "email": "dengyongbin@loopeer.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"php": ">=5.3.0"
+    },
+    "autoload": {
+    	"psr-0": {
+            "Sms": "src/"
+        }
+    }
+}
